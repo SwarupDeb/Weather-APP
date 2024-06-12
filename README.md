@@ -2,12 +2,12 @@
 
 A React-based weather application that displays real-time weather information for the user's current location or any searched city. 
 
-#ScreenShot
+# ScreenShot
 
-1. 1st image
+- 1st image
 <img width="1280" alt="Weather1" src="https://github.com/SwarupDeb/Weather-APP/assets/55588687/28e195a9-fdc9-449b-841a-d5ceb58e5cfa">
 
-2.2nd image
+- 2nd image
 <img width="1280" alt="weather2" src="https://github.com/SwarupDeb/Weather-APP/assets/55588687/23fbeaa6-d324-46e2-9c10-4cef09994883">
 
 ## Features
